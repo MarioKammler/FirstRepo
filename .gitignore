@@ -338,6 +338,8 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 secret.csv
+secure.txt
+
 
 
 # End of https://www.toptal.com/developers/gitignore/api/windows,visualstudiocode,pycharm,python,powershell
